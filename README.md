@@ -5,12 +5,15 @@
 - 🌱 Estou aprendendo Java.
 - 🐱 Amo gatos.
 
-  <div> 
-  <img height = "180cm" src= "https://github-readme-stats.vercel.app/api?username=titahcarvalho&show_icons=true&theme=cobalt&includ_all_commits=true&count_private=true"/>
-    <img height = "180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=titahcarvalho&layout=compact&langs_count=16&theme=tokyonight"/>
-  </div>
+## 
+  <a href="https://github.com/titahcarvalho">
+  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api?username=titahcarvalho&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/titahcarvalho">
+  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=titahcarvalho&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+</a>
 
-##
+## Linguagens
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tita-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,7 +22,7 @@
   <img align="center" alt="Tita-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+## Contatos
 
 <div> 
   <a href="https://www.youtube.com/channel/UCV7SEkM-N5xTBcJXzEoJ8Cw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
