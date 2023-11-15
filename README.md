@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Tita👋
 
-- 🔭 Atualmente estou estudando Sistemas de Informação.
+- 🔭 Atualmente estudo Sistemas de Informação.
 - 🌱 Estou aprendendo Java.
 - 🐱 Amo gatos.
 
