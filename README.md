@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Tita👋
 
 - 🔭 Atualmente estudo Sistemas de Informação.
-- 🌱 Estou aprendendo Java.
+- 🌱 Estou aprendendo Java/ Assembly/ C -/ Para AEDS (Algoritimos e Estrutura de Dados).
 - 🐱 Amo gatos.
 
 ## 
