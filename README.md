@@ -5,12 +5,13 @@
 - 🐱 Amo gatos.
 
 ## 
+<div align="center">
   <a href="https://github.com/titahcarvalho">
-  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api?username=titahcarvalho&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/titahcarvalho">
-  <img height=180cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=titahcarvalho&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
-</a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=titahcarvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=30"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=titahcarvalho&layout=compact&langs_count=8&theme=radical&cache_seconds=30"/>
+  </a>
+</div>
+
 
 ## Linguagens
 
