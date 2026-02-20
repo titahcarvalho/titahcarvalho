@@ -37,13 +37,6 @@
 
 ---
 
-## 🐍 Snake das contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/titahcarvalho/titahcarvalho/output/github-contribution-grid-snake.svg">
-</div>
-
----
 
 ## 🌐 Contatos
 
